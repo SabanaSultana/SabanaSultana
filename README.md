@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabanasultana" alt="sabanasultana" /></a> </p>
 
-- 🔭 I’m currently working on [GoTrips](https://github.com/SabanaSultana/JourneyJoy-TravelApp)
+
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
